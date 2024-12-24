@@ -1,3 +1,3 @@
 # database in psycopg
 
-Tried something new in python interaction with database(postgreSQL) using psycopg.
+I tried something new in Python for interacting with a PostgreSQL database using psycopg.
